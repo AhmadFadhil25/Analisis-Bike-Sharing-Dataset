@@ -7,3 +7,4 @@ dateutil == 2.9.0.post0
 pip == 25.0.1
 matplotlib == 3.10.1
 streamlit 
+seaborn==0.12.2
